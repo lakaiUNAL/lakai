@@ -7,7 +7,7 @@
 
 ## Integrantes
 
-<p>__Juan Carlos Gama Roa__ - Scrum master/Desarrollador</p>
-<p>__Diego Cruz Moreno__ - Desarrollador</p/>
+* __Juan Carlos Gama Roa__ - Scrum master/Desarrollador
+* __Diego Cruz Moreno__ - Desarrollador
 
 
