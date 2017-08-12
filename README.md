@@ -8,4 +8,6 @@
 ## Integrantes
 
 __Juan Carlos Gama Roa__ - Scrum master/Desarrollador
+__Diego Cruz Moreno__ - Desarrollador
+
 
