@@ -4,6 +4,7 @@
 
 * Ruby 2.4.0
 * Rails 5.1.3
+* Bootstrap 3.3.5
 
 ## Integrantes
 
